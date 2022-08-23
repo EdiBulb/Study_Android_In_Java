@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Study_Android_Java</string>
+    <string name="text">text</string>
+    <string name="myName">나의 이름은 강병훈,나의 이름은 강병훈,나의 이름은 강병훈,나의 이름은 강병훈,</string>
 </resources>
